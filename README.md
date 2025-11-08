@@ -11,7 +11,7 @@
 
 
 
-\### Documentation
+### Documentation
 
 
 
@@ -23,14 +23,14 @@
 * &nbsp;	1 - Loads image specified (jpg or png only) at 0.25 scale	eg. python imageToAsciiGS.py monaLisa.jpg
 * &nbsp;	2 - Loads image specified at specified scale			eg. python imageToAscii.py monaLisa.jpg 0.1
 * Store images in the /images folder, and input them with just their name as shown in the example.
+* Some images have been provided for you to test out the script.
 
 
 
 
 
 
-
-\### Tutorials used
+### Tutorials used
 
 
 
