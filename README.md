@@ -39,14 +39,14 @@
 
 
 
-\### Learnt
+### Learnt
 
 * 3d Arrays
 * Reading and manipulating image data
 
 
 
-\### Reinforced
+### Reinforced
 
 * Writing to files
 * Virtual environments
