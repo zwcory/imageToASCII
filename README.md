@@ -26,7 +26,6 @@
 * Some images have been provided for you to test out the script.
 
 * Used python 3.13 as cv2 is not compatible with 3.14 as of 08/11/25
-* To activate the environment, navigate to the folder containing the scripts and run "activate", assuming python is installed.
 
 
 
