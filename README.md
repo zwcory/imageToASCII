@@ -25,6 +25,8 @@
 * Store images in the /images folder, and input them with just their name as shown in the example.
 * Some images have been provided for you to test out the script.
 
+* Used python 3.13 as cv2 is not compatible with 3.14 as of 08/11/25
+* To activate the environment, navigate to the folder containing the scripts and run "activate", assuming python is installed.
 
 
 
@@ -53,6 +55,6 @@
 
 
 
-\### Roadblocks faced
+### Roadblocks faced
 
 * Had to use virtual environments because cv2 is not yet compatible with python 3.14 as of 08/11/25
