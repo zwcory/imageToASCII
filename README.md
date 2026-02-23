@@ -5,12 +5,6 @@
 * Python
 * Week 1 of 52
 
-
-
-
-
-
-
 ### Documentation
 
 
@@ -33,27 +27,6 @@
 
 ### Tutorials used
 
-
-
 * Image processing: https://www.youtube.com/watch?v=kSqxn6zGE0c
 * NumPy multidimensional arrays tutorial: https://www.youtube.com/watch?v=EnhgbolbEe0
 
-
-
-### Learnt
-
-* 3d Arrays
-* Reading and manipulating image data
-
-
-
-### Reinforced
-
-* Writing to files
-* Virtual environments
-
-
-
-### Roadblocks faced
-
-* Had to use virtual environments because cv2 is not yet compatible with python 3.14 as of 08/11/25
